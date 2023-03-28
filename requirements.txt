@@ -1,0 +1,3 @@
+slack_bolt
+python-dotenv
+pika==1.1.0
