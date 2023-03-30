@@ -14,7 +14,7 @@ Now, picture ChatGPT joining these daily discussions that occur on Slack - this 
 ## Demo
 
 <video width="320" height="240" autoplay>
-    <source src="/assets/demo.mp4" type="video/mp4">
+    <source src="./assets/demo.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
