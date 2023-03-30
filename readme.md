@@ -12,11 +12,8 @@ Slack is where the work happens – it is where the content team deliberates on 
 Now, picture ChatGPT joining these daily discussions that occur on Slack - this is exactly what SlackGPT does for you :)
 
 ## Demo
+![demo](https://user-images.githubusercontent.com/32811823/228808605-809b9351-f23e-46ce-9993-862bfbcbea0d.gif)
 
-<video width="320" height="240" autoplay>
-    <source src="./assets/demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
 
 ## Getting Started
 This project has two services - this repo is just one of two services. You can find the consumer [here](https://github.com/Nyior/slackgpt-consumer).
